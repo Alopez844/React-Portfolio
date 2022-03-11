@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "",
+        "name": "tech blog",
         "image": "",
         "github": "",
         "deploy": "",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "name": "",
+        "name": "weather dashboard",
         "image": "",
         "github": "",
         "deploy": "",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "name": "",
+        "name": "budget tracker",
         "image": "",
         "github": "",
         "deploy": "",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "name": "",
+        "name": "code quiz",
         "image": "",
         "github": "",
         "deploy": "",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "name": "",
+        "name": "note taker",
         "image": "",
         "github": "",
         "deploy": "",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "name": "",
+        "name": "social network api",
         "image": "",
         "github": "",
         "deploy": "",

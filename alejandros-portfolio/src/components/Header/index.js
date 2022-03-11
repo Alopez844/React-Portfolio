@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import {Route, Redirect, HashRouter} from "react-router-dom";
-import About from '../../components/About';
+import Nav from '../Nav';
+import About from '../About';
+import Portfolio from '../Portfolio';
 
 class Header extends Component {
     render() {

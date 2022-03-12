@@ -3,6 +3,8 @@ import {Route, Redirect, HashRouter} from "react-router-dom";
 import Nav from '../Nav';
 import About from '../About';
 import Portfolio from '../Portfolio';
+import Contact from '../Contact';
+import Resume from '../Resume';
 
 class Header extends Component {
     render() {

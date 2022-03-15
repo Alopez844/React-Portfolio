@@ -15,7 +15,7 @@ export default function Resume() {
                 </p>  
 
                 <p>
-                    You can view my full <a href='https://github.com/Alopez844/React-Portfolio/blob/main/alejandros-portfolio/src/assets/Alejandro_Lopez_Resume.PDF' class='link'>Resume</a> here.
+                    You can view my full <a href='https://github.com/Alopez844/React-Portfolio/raw/main/alejandros-portfolio/src/assets/Alejandro_Lopez_Resume.PDF' class='link'>Resume</a> here.
                     <br></br>
                 </p>
             </div>

@@ -39,7 +39,7 @@ p {
 
 h1 {
   margin: auto 30px;
-  padding: 15px;
+  padding: 10px;
   color: var(--raisin-black);
   font-weight: bold;
 }
@@ -54,11 +54,12 @@ h1 {
   font-size: 22px;
   text-decoration: none;
   align-content: center;
+  display: inline-block;
 }
 
 #navigation a {
-  color: var(--orange-soda);
-  padding-left: 1em;
+  color: var(--raisin-black);
+  padding-left: 2em;
   font-weight: bold;
   text-decoration: none;
   text-shadow: 1px 1px 2px var(--cornflower-blue);
@@ -67,10 +68,10 @@ h1 {
 .card {
   background-color: var(--cultured);
   border-radius: 5px;
-  height: 350px;
+  height: 400px;
   margin: 2rem;
   position: relative;
-  width: 350px;
+  width: 400px;
   box-shadow: 0 2px 2px var(--cornflower-blue), o 6px 12px var(--cornflower-blue);
 }
 
@@ -170,6 +171,10 @@ h1 {
   background-color: var(--middle-blue-green);
   color: var(--cultured);
   margin-top: 5px;
+}
+
+#footer {
+  background-color: var(--cultured);
 }
 
 #footer .icon {

@@ -9,10 +9,10 @@ function Wrapper(props) {
 
 export default function Portfolio() {
   return (
-    <section>
+    <section className='cards-img'>
         <div className='project'>
             <h1 className='title'>
-                Development portfolio: ACL Code
+                Alejandro Lopez Code Portfolio 
             </h1>
             <hr></hr>
         </div>

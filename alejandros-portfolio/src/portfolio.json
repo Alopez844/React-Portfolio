@@ -1,50 +1,58 @@
 [
     {
         "id": 1,
-        "name": "tech blog",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "name": "Tech Blog",
+        "image": "https://github.com/Alopez844/Tech-Blog/blob/main/assets/tech-blog%20sc.jpg?raw=true",
+        "github": "https://github.com/Alopez844/Tech-Blog",
+        "deploy": "https://lopez-tech-blog844.herokuapp.com/",
+        "topics": "MVC, bcrypt, express.js, MySQL, sequelize, node.js, dotenv, handlebars"
     },
     {
         "id": 2,
-        "name": "weather dashboard",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "name": "Weather Dashboard",
+        "image": "https://github.com/Alopez844/Weather-app/blob/main/assets/images/weather-app-sc.jpg?raw=true",
+        "github": "https://github.com/Alopez844/Weather-app",
+        "deploy": "https://alopez844.github.io/Weather-app/",
+        "topics": "JavaScript, jquery, HTML, Bootstrap, API"
     },
     {
         "id": 3,
-        "name": "budget tracker",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "name": "Budget Tracker",
+        "image": "https://github.com/Alopez844/PWA-Challenge/blob/main/assets/PWA-ss.jpg?raw=true",
+        "github": "https://github.com/Alopez844/PWA-Challenge",
+        "deploy": "https://pwa-tracker-lopez.herokuapp.com/",
+        "topics": "JavaScript, PWA, mongoDB, mongoose, nodemon, express, morgan"
     },
     {
         "id": 4,
-        "name": "code quiz",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "name": "Code Quiz",
+        "image": "https://github.com/Alopez844/Code-quiz/blob/main/assets/images/code-quiz-ss.jpg?raw=true",
+        "github": "https://github.com/Alopez844/Code-quiz",
+        "deploy": "https://alopez844.github.io/Code-quiz/",
+        "topics": "JavaScript, HTML, CSS, "
     },
     {
         "id": 5,
-        "name": "note taker",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/Alopez844/Work-day/blob/main/assets/scheduler--ss.jpg?raw=true",
+        "github": "https://github.com/Alopez844/Work-day",
+        "deploy": "https://alopez844.github.io/Work-day/",
+        "topics": "HTML, JavaScript, Bootstrap, CSS, jQuery"
     },
     {
         "id": 6,
-        "name": "social network api",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "name": "Taskmaster Pro",
+        "image": "https://github.com/Alopez844/taskmaster-pro/blob/main/assets/images/taskmaster-ss.jpg?raw=true",
+        "github": "https://github.com/Alopez844/taskmaster-pro",
+        "deploy": "https://alopez844.github.io/taskmaster-pro/",
+        "topics": "HTML, JavaScript, CSS"
+    },
+    {
+        "id": 7,
+        "name": "Git It Done",
+        "image": "https://github.com/Alopez844/git-it-done/blob/main/assets/images/git-it-done-ss.jpg?raw=true",
+        "github": "https://github.com/Alopez844/git-it-done",
+        "deploy": "https://alopez844.github.io/git-it-done/",
+        "topics": "HTML, CSS, JavaScript, API"
     }
 ]

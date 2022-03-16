@@ -2,7 +2,7 @@
   "name": "alejandros-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alopez844.github.io/alejandros-portfolio/",
+  "homepage": "https://alopez844.github.io/alopez844.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
@@ -17,12 +17,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +43,8 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.8.0",
+    "@testing-library/react": "^9.5.0",
     "gh-pages": "^3.2.3"
   }
 }

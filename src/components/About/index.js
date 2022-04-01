@@ -1,4 +1,5 @@
 import React from 'react';
+import image from '../../assets/5Z3A9692.jpg';
 
 export default function About() {
   return (
@@ -9,7 +10,7 @@ export default function About() {
 
             <div className='row justify-content-center'>
                 <div className='col-18' id='about-section'>
-                    <img class='mb-5' src='' alt='Alejandro Lopez'/>
+                    <img class='mb-5' src={image} alt='Alejandro Lopez'/>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim diam vulputate ut pharetra. Massa sapien faucibus et molestie ac. Eget est lorem ipsum dolor sit amet consectetur. Amet nulla facilisi morbi tempus iaculis urna id volutpat lacus. Aliquet risus feugiat in ante metus. Porta lorem mollis aliquam ut. Duis ultricies lacus sed turpis tincidunt id. In iaculis nunc sed augue. At lectus urna duis convallis convallis tellus id. Nisl tincidunt eget nullam non nisi. Aenean et tortor at risus viverra adipiscing at. Imperdiet massa tincidunt nunc pulvinar sapien. Condimentum mattis pellentesque id nibh tortor id. Diam donec adipiscing tristique risus nec feugiat.

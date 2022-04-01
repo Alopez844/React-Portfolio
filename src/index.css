@@ -195,3 +195,9 @@ h1 {
 #react-icon {
   background-color: var(--cultured);
 }
+
+.mb-5 {
+  width: 15%;
+  padding: 25px;
+  margin-bottom: 20px;
+}

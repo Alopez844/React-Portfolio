@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Resume() {
   return (
-    <section class='mb-5'>
+    <section class=''>
         <h1 className='resume'>Resume: Alejandro Lopez</h1>
         <hr></hr>
 

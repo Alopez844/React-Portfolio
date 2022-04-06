@@ -54,5 +54,13 @@
         "github": "https://github.com/Alopez844/git-it-done",
         "deploy": "https://alopez844.github.io/git-it-done/",
         "topics": "HTML, CSS, JavaScript, API"
+    },
+    {
+        "id": 8,
+        "name": "Game Central",
+        "image": "https://github.com/Alopez844/vg-search-engine-/blob/main/client/assets/game-central-ss.jpg?raw=true",
+        "github": "https://github.com/Alopez844/vg-search-engine-",
+        "deploy": "https://alopez-portfolio.herokuapp.com/#/portfolio",
+        "topics": "MERN, Chakra UI, JavaScript"
     }
 ]

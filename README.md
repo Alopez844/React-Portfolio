@@ -4,7 +4,7 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://alopez844.github.io/React-Portfolio/)**
+**[Deployed Application](https://alopez-portfolio.herokuapp.com/#/portfolio)**
   
 
 ## User Story
